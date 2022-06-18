@@ -21,6 +21,16 @@ Here are the modules used in this repo:
 ## Known Bugs
 Here are the bugs the repo currently has:
 - Not being able to like posts and follow people on the same page due to instagram using the same CSS Selectors for the like and follow buttons respectively. The page has to be refreshed
+- Whenever instagram modifies its CSS Selectors, changes will need to be made to the codes
+
+## Running the Code
+Here are the steps you need to take to run this program:
+- Download the code as a zip file from the repo menu
+- Unzip the file
+- Install the modules listed in this README file (with any method you're okay with)
+- Open the command line then chamge the directory to the unzipped file's directory
+- On your command line, input "Python run.py" then follow the prompt <br>
+<strong>NOTE:</strong> You don't need to run the files from your command line, you can use any IDE you're confortable with. Just make sure you run the "run.py" file as that is the file that integrates all the files into a single executable file.
 
 ## Future Releases
 In the future releases, the following functions will be added:
