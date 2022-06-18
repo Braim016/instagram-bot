@@ -1,5 +1,5 @@
 # Instagram Bot 
-This repository contains my files of python codes for an instagram bot that can like posts and follow people.
+This repository contains files of python codes for an instagram bot that can like posts and follow people.
 
 ## Installations
 For this repository, you'll need 
