@@ -7,6 +7,7 @@ For this repository, you'll need
 - To install various modules using "pip install module_name"
 
 ## Modules Used
+Here are the modules used in this repo:
 - os
 - random
 - time
@@ -15,6 +16,7 @@ For this repository, you'll need
 - selenium.webdriver.common.by
 - constants (in the repo)
 - logger_file (in the repo)
+- sys
 
 ## Known Bugs
 Here are the bugs the repo currently has:
@@ -28,6 +30,7 @@ In the future releases, the following functions will be added:
 - Try/except statements to the login func incase it's already logged in
 
 ## Contributing
+To make a contribution:
 - Fork the repo
 - Make Changes
 - Send your pull request for review
